@@ -17,4 +17,20 @@
 - 加密方式: `rc4-md5`
 - 密码: `password`
 
+
+
+
+
+
+
+
+
+## vpn
+----
+- 服务器: `202.5.17.148`
+- 连结方式: `l2tp/ipsec psk `
+- psk密匙: `vpnpsk`
+- 帐号:`vpnzh1` `vpnzh2` `vpnzh3` `vpnzh4` `vpnzh5` 
+- 密码: `vpnmm`
+
 有问题可以联系我
