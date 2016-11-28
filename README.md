@@ -1,7 +1,11 @@
 # Shadowsocks-free
 免费的Shadowsocks帐号  由我提供 
+
 [ss服务器搭建教程](https://github.com/youngon-cn/lesson/blob/master/tool/shadowsocks%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
+
 [win客户端](https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
+
+[mac客户端](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-%E5%B8%AE%E5%8A%A9)
 
 ---
 #### 1
