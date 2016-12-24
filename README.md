@@ -7,7 +7,7 @@
 
 [mac客户端](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-%E5%B8%AE%E5%8A%A9)
 
----主机服务商又出现了问题，我正在沟通，目前无法使用
+--- 已经可以正常使用了
 #### ipv4
 - 地址: `104.128.237.85`
 - 端口: `9000`  `9001` `9002`   `9003`   `9004`  
