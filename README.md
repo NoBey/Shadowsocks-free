@@ -7,7 +7,7 @@
 
 [mac客户端](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-Help)
 
---- 应该可以用了  之前ipv6没开 现在开了
+--- 带宽被跑光了
 #### ipv4
 - 地址: `ss.nobey.cn`
 - 端口: `9000`  `9001` `9002`   `9003`   `9004`  
