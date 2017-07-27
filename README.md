@@ -7,9 +7,9 @@
 
 [mac客户端](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-Help)
 
---- 带宽被跑光了
+--- 加了一个新的服务器 ss1.nobey.cn 密码都一样
 #### ipv4
-- 地址: `ss.nobey.cn`
+- 地址: `ss.nobey.cn`  `ss1.nobey.cn`
 - 端口: `9000`  `9001` `9002`   `9003`   `9004`  
 - 本地端口: `1080`
 - 加密方式: `aes-256-cfb`
