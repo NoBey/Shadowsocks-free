@@ -1,5 +1,9 @@
 # Shadowsocks-free
-免费的Shadowsocks帐号  由我提供 
+免费的Shadowsocks帐号  由我提供
+
+> 没辙了 十九大
+
+![](ss.png)
 
 [ss服务器搭建教程](https://github.com/youngon-cn/lesson/blob/master/tool/shadowsocks%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
 
