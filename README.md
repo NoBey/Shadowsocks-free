@@ -8,6 +8,10 @@
 
 [mac客户端](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-Help)
 
+[安卓ss客户端](https://github.com/shadowsocks/shadowsocks-android/releases)
+
+[安卓ssr客户端](https://github.com/HMBSbige/ShadowsocksR-Android/releases)
+
 #### ipv4
 - 地址: `sss.nobey.cn` 
 - 端口: `8001`  `8002` 
